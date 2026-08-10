@@ -44,8 +44,41 @@ Le développement suit la **méthode Scrum**, avec des sprints dédiés à :
 - Une **visualisation claire** des vulnérabilités pour faciliter la prise de décision  
 
 ---
+## 📸 Aperçu de la plateforme
 
+### 🔐 Interface de connexion
+![Interface Login](captures/interface_login.png)
+
+### 🧩 Tableau de bord principal
+![Dashboard Principal](captures/interface_dashboard.png)
+
+### 🧠 Tableau de bord administrateur
+![Dashboard Admin](captures/dashboard_admin.png)
+
+### 📊 Résultats de scan
+![Résultats de Scan](captures/interface_scan_results.png)
+
+### ⚙️ Page de configuration des alertes
+![Configuration des Alertes](captures/alert_config.png)
+
+### 🚨 Page d’alertes
+![Page d’Alertes](captures/alert_page.png)
+
+### 🧍‍♀️ Inscription utilisateur
+![Interface Register](captures/interface_register.png)
+
+### 💬 Module de chat
+![Interface Chat](captures/interface_chat.png)
+
+### 🔎 Monitoring en temps réel
+![Interface Monitoring](captures/interface_monitoring.png)
+
+### 🛠 Remédiation et gestion des risques
+![Interface Remediation](captures/interface_remediation.png)
+
+### 📉 Panneau d’analyse des risques
+![Panneau Risk](captures/panneau_risk.png)
+
+---
 ## 👩‍💻 Auteur
 Projet réalisé par **Ines Hajjem**  
-Master de recherche en **Business Intelligence et Big Data Analytics**  
-Université Chouaib Doukkali — Faculté des Sciences El Jadida
