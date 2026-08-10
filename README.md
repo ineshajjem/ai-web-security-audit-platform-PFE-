@@ -38,11 +38,13 @@ Les tests de performance et de fiabilité
 La documentation et la présentation du mémoire
 
 📊 Résultats attendus
-Une plateforme intuitive et sécurisée pour les audits web.
+Une plateforme intuitive et sécurisée pour les audits web
 
-Une automatisation complète du processus de pentesting.
+Une automatisation complète du processus de pentesting
 
-Une visualisation claire des vulnérabilités pour faciliter la prise de décision.
+Une visualisation claire des vulnérabilités pour faciliter la prise de décision
 
 👩‍💻 Auteur
 Projet réalisé par Ines Hajjem  
+Master de recherche en Business Intelligence et Big Data Analytics  
+Université Chouaib Doukkali — Faculté des Sciences El Jadida
